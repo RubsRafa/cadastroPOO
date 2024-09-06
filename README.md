@@ -1,7 +1,7 @@
 # Projeto de Cadastro em Modo Texto
 Este projeto em Java é um sistema de cadastro simples que permite gerenciar entidades de Pessoas Físicas e Pessoas Jurídicas. As funcionalidades incluem a adição, modificação, exclusão, exibição e persistência de dados de pessoas. O projeto é baseado em uma interface de linha de comando (CLI).
 
-O [relatório de práticas](https://github.com/user-attachments/files/16911007/projeto1mundo3.odp) foi confeccionado em formato PDF e produzido em conjunto com o desenvolvimento do projeto.
+O [relatório de práticas](https://github.com/user-attachments/files/16911480/projeto1mundo3.pdf) foi confeccionado em formato PDF e produzido em conjunto com o desenvolvimento do projeto.
 
 ### Funcionalidades
 O sistema permite realizar as seguintes operações:
